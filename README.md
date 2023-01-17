@@ -16,3 +16,7 @@ correo del calendario pa cambiar fechas: aleyrodriycleo@gmail.com
 - 09/02/23: HTML/CSS
 - 13/02/23: Pre-planning de prox disponibilidad 
 
+
+
+##### temas
+![Screen Shot 2023-01-16 at 19 45 40](https://user-images.githubusercontent.com/74441510/212791964-efffae94-02a3-47d3-9e1d-5a1b138aecb5.png)
