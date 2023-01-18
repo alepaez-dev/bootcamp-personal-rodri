@@ -1,9 +1,10 @@
 ### Calendario
 
 correo del calendario pa cambiar fechas: aleyrodriycleo@gmail.com
+horarios: 6pm a 9pm (s puede cambiar)
 
 ##### prox dfias por disponibilidad:
-- 17/01/23: Intro a la progra
+- 17/01/23: Intro a la progra - done
 - 18/01/23: Intro a la progra
 - 23/01/23: Full stack meaning, roadmap, etc.
 - 24/01/23: Git
