@@ -6,8 +6,7 @@ horarios: 6pm a 9pm (s puede cambiar)
 
 ##### prox dfias por disponibilidad:
 - 17/01/23: Intro a la progra - done
-- 18/01/23: Intro a la progra - se pospoine
-- 23/01/23: Full stack meaning, roadmap, etc.
+- 23/01/23: Full stack meaning, etc.
 - 24/01/23: Git
 - 25/01/23: Git
 - 26/01/23: Git Advanced
