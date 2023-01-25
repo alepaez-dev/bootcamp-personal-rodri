@@ -7,7 +7,7 @@ horarios: 6pm a 9pm (s puede cambiar)
 ##### prox dfias por disponibilidad:
 - 17/01/23: Intro a la progra - done
 - 23/01/23: Full stack, linux - done
-- 24/01/23: Install WSL for windows
+- 24/01/23: Install WSL for windows - postponed by r
 - 25/01/23: Linux commands
 - 26/01/23: Git
 - 30/01/23: Git advanced
