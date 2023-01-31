@@ -11,7 +11,7 @@ horarios: 6pm a 9pm (s puede cambiar)
 - 25/01/23: HTML (linux/git pause tech issues) - done
 - 26/01/23: Linux commands - done
 - 30/01/23: Git - postponed by a
-- 31/01/23: GIT advances
+- 31/01/23: GIT advances - postponed by a
 - 01/02/23: GIT asdvnaced
 - 08/02/23: HTML/CSS
 - 09/02/23: HTML/CSS
