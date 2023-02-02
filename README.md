@@ -10,10 +10,10 @@ horarios: 6pm a 9pm (s puede cambiar)
 - 24/01/23: Install WSL for windows - postponed by r
 - 25/01/23: HTML (linux/git pause tech issues) - done
 - 26/01/23: Linux commands - done
-- 30/01/23: Git - postponed by a
-- 31/01/23: GIT advances - postponed by a
-- 01/02/23: GIT asdvnaced
-- 08/02/23: HTML/CSS
+- 30/01/23: Git - re-schedukled by a
+- 31/01/23: GIT advances - re-schdeuled by a
+- 01/02/23: GIT - done
+- 08/02/23: git adanvexc 
 - 09/02/23: HTML/CSS
 - 13/02/23: Pre-planning de prox disponibilidad 
 
