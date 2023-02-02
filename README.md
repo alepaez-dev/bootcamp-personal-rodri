@@ -12,8 +12,8 @@ horarios: 6pm a 9pm (s puede cambiar)
 - 26/01/23: Linux commands - done
 - 30/01/23: Git - re-schedukled by a
 - 31/01/23: GIT advances - re-schdeuled by a
-- 01/02/23: GIT - done
-- 08/02/23: git adanvexc 
+- 01/02/23: GIT (merge conflicts, posibles casos de errores, ramas) - done
+- 08/02/23: git adanvexc (git flow, pull request, conventional commits)
 - 09/02/23: HTML/CSS
 - 13/02/23: Pre-planning de prox disponibilidad 
 
