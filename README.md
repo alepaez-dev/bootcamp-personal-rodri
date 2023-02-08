@@ -15,9 +15,9 @@ horarios: 6pm a 9pm (s puede cambiar)
 - 01/02/23: GIT (merge conflicts, posibles casos de errores, ramas) - done
 - 08/02/23: git adanvexc (git flow, pull request, conventional commits) - postponed by R
 - 09/02/23: HTML/CSS - postponed by A :palm_tree:
-- 14/02/23: Pre-planning de prox disponibilidad
+- 15/02/23: Pre-planning de prox disponibilidad
 
-Next date: el catorce
+Next date: el quince
 
 
 ##### temas
