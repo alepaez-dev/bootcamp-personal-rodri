@@ -17,7 +17,28 @@ horarios: 6pm a 9pm (s puede cambiar)
 - 09/02/23: HTML/CSS - postponed by A :palm_tree:
 - 15/02/23: Pre-planning de prox disponibilidad
 
-Next date: el quince
+##### 2da ronda
+- 22/02/23
+- 23/02/23
+- 24/02/23
+- 27/02/23
+- 02/03/23
+- 06/03/23
+- 07/03/23
+- 13/03/23
+- 14/03/23
+- 15/03/23
+- 20/03/23
+- 21/03/23
+- 22/03/23
+- 23/03/23
+- 27/03/23
+- 28/03/23
+- 29/03/23
+- 30/03/23
+- Pre-planning
+
+Next date: el 22
 
 
 ##### temas
