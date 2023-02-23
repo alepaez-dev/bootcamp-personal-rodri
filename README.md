@@ -20,6 +20,7 @@ horarios: 6pm a 9pm (s puede cambiar)
 ##### 2da ronda
 - 22/02/23
 - 23/02/23
+- 24/02/23 - Reopened by A pork salimos temprano 22 y 23
 - 27/02/23
 - 02/03/23
 - 06/03/23
