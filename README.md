@@ -19,7 +19,7 @@ horarios: 6pm a 9pm (s puede cambiar)
 
 ##### 2da ronda
 - 22/02/23 - Git flow, PR until 8 (1hr postponed by A :cocktail:)
-- 23/02/23 - Pull request/ retomar HTML (1:30hr postponed by A :woman_teacher:)
+- 23/02/23 - Pull request/ retomar HTML (1:30hr postponed by A :woman_teacher:) - Postoponed by R :face_with_thermometer:
 - 24/02/23 - Reopened by A pork salimos temprano 22 y 23 (repuesto de 2hrs y media)
 - 27/02/23
 - 02/03/23
