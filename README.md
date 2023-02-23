@@ -18,9 +18,9 @@ horarios: 6pm a 9pm (s puede cambiar)
 - 15/02/23: Pre-planning de prox disponibilidad
 
 ##### 2da ronda
-- 22/02/23
-- 23/02/23
-- 24/02/23 - Reopened by A pork salimos temprano 22 y 23
+- 22/02/23 - Git flow, PR until 8 (1hr postponed by A :cocktail:)
+- 23/02/23 - Pull request/ retomar HTML (1:30hr postponed by A :woman_teacher:)
+- 24/02/23 - Reopened by A pork salimos temprano 22 y 23 (repuesto de 2hrs y media)
 - 27/02/23
 - 02/03/23
 - 06/03/23
@@ -38,8 +38,7 @@ horarios: 6pm a 9pm (s puede cambiar)
 - 30/03/23
 - Pre-planning
 
-Next date: el 22
-
+Next date: el 23
 
 ##### temas
 ![Screen Shot 2023-01-16 at 19 45 40](https://user-images.githubusercontent.com/74441510/212791964-efffae94-02a3-47d3-9e1d-5a1b138aecb5.png)
