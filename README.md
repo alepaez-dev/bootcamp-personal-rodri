@@ -24,8 +24,8 @@ horarios: 6pm a 9pm (s puede cambiar)
 - 27/02/23 - Postponed by A  :sleeping_bed:
 - 02/03/23 - done
 - 03/03/23 - 27 feb CSS
-- 06/03/23
-- 07/03/23
+- 06/03/23 - postponed by A :woman_teacher:
+- 07/03/23 - postponed by A :woman_teacher:
 - 13/03/23
 - 14/03/23
 - 15/03/23
