@@ -23,7 +23,7 @@ horarios: 6pm a 9pm (s puede cambiar)
 - 24/02/23 - HTML - Reopened by A pork salimos temprano 22 y 23 (repuesto de 2hrs y media) - done
 - 27/02/23 - Postponed by A  :sleeping_bed:
 - 02/03/23 - done
-- 03/03/23 - 27 feb CSS
+- 03/03/23 - 27 feb CSS - Postponed by R :man_health_worker::microscope:
 - 06/03/23 - postponed by A :woman_teacher:
 - 07/03/23 - postponed by A :woman_teacher:
 - 13/03/23
