@@ -26,7 +26,7 @@ horarios: 6pm a 9pm (s puede cambiar)
 - 03/03/23 - 27 feb CSS - Postponed by R :man_health_worker::microscope:
 - 06/03/23 - postponed by A :woman_teacher:
 - 07/03/23 - postponed by A :woman_teacher:
-- 13/03/23
+- 13/03/23 - postponed by A :canned_food:
 - 14/03/23
 - 15/03/23
 - 20/03/23
@@ -39,7 +39,8 @@ horarios: 6pm a 9pm (s puede cambiar)
 - 30/03/23
 - Pre-planning
 
-Next date: el 3
+Pre-plannings cada 15 dias.
 
+Pre-planning: 14 marzo 6pm
 ##### temas
 ![Screen Shot 2023-01-16 at 19 45 40](https://user-images.githubusercontent.com/74441510/212791964-efffae94-02a3-47d3-9e1d-5a1b138aecb5.png)
